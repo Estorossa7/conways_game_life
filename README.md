@@ -1,1 +1,4 @@
-conways game of file modular
+conways game of file 
+    - singluar file  - all code in one file
+
+
